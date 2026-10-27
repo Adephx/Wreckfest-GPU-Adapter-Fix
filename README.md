@@ -1,4 +1,5 @@
 Supports Wreckfest 1.308438, both 32-bit and 64-bit.
+
 Steam build: 16986367 - published 2 February 2025.
 
 1. Run `Patch.bat`;
